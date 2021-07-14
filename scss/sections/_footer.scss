@@ -5,3 +5,25 @@
     padding-top: 1rem;
     background-color: $footer;
 }
+
+//style the contact-box contect
+
+.contact-box{
+    position: relative;
+
+    &__icon {
+
+    }
+
+    &__info {
+
+
+        &--title {
+
+        }
+
+        &--subtitle {
+            
+        }
+    }
+}
